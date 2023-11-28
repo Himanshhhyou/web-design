@@ -2,6 +2,19 @@
 
 ![side-navbar](side-navbar.png)
 
+Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appeal.
+
+### CDN Link for Font Awesome
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+```
+
+### CDN link for W3CSS
+```html
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+```
+
+
 ## HTML
 
 [side-navbar.html](side-navbar.html)
