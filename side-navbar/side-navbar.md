@@ -1,5 +1,7 @@
 # Side Navigation bar
 
+![side-navbar](side-navbar.png)
+
 ## HTML
 
 [side-navbar.html](side-navbar.html)
