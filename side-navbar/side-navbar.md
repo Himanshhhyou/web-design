@@ -65,4 +65,4 @@
 }
 ```
 
-<a href=""><img src = "../images/backToHome.png" height="30px"></a>
+<a href=""><img src = "../images/backToHome.png" height="30px" width= "100vw"></a>
