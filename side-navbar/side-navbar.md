@@ -15,7 +15,8 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 ```
 
 
-## HTML
+## Source Code
+### HTML
 
 [side-navbar.html](side-navbar.html)
 
@@ -58,7 +59,7 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 </html>
 ```
 
-## CSS
+### CSS
 
 [side-navbar.css](side-navbar.css)
 
