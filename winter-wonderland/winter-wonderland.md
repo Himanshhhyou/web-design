@@ -1,3 +1,5 @@
+[← Back to home](../README.md)
+
 # Winter Wonderland
 ![demo](output.png)
 
@@ -160,4 +162,4 @@ You can simply copy or download the html and css code.
     }
 ```
 
-<a href="../README.md" align="right">Back to home</a>
+[← Back to home](../README.md)
