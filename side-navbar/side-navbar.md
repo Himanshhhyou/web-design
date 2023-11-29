@@ -3,7 +3,7 @@
 
 ![side-navbar](side-navbar.png)
 
-Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appeal.
+Here, I use `Font Awesome` for icons and `W3CSS` for styling to enhance visual appeal.
 
 ### CDN Link for Font Awesome
 ```html
