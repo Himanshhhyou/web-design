@@ -17,7 +17,7 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 
 ## Source Code
 ### HTML
-
+<a class="github-button" href="https://github.com/buttons/github-buttons/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download buttons/github-buttons on GitHub">Download HTML</a>
 
 [side-navbar.html](side-navbar.html)
 
