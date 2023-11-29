@@ -160,4 +160,4 @@ You can simply copy or download the html and css code.
     }
 ```
 
-[Back to home](../README.md)
+<a href="../README.md" align="right">
