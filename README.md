@@ -5,3 +5,5 @@
 👉 [colourful-text](colourful-text/colourful-text.md)
 
 👉 [side-navbar](side-navbar/side-navbar.md)
+
+<a href="#" class="button icon search">Search</a>
