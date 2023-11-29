@@ -1,4 +1,4 @@
-<a href="https://github.com/Himanshhhyou/web-design"><img src="../back2home.png" width="250px"></a>
+[Back to home](../README.md)
 
 # Winter Wonderland
 ![demo](output.png)
@@ -162,4 +162,4 @@ You can simply copy or download the html and css code.
     }
 ```
 
-[← Back to home](../README.md)
+[Back to home](../README.md)
