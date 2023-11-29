@@ -1,3 +1,4 @@
+[Back to home](../README.md)
 
 # Side Navigation bar
 
@@ -80,3 +81,4 @@ Here, I use `Font Awesome` for icons and `W3CSS` for styling to enhance visual a
 }
 ```
 
+[Back to home](../README.md)
