@@ -79,3 +79,5 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
   display: block;
 }
 ```
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
