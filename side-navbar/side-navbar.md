@@ -17,6 +17,7 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 
 ## Source Code
 ### HTML
+[![Download HTML](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/DownloadFile.svg)](side-navbar.html)
 
 [side-navbar.html](side-navbar.html)
 
