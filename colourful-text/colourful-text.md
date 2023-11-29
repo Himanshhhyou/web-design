@@ -1,3 +1,5 @@
+[Back to home](../README.md)
+
 # Colourful-text
 Here, I'll show you how to change the color of individual letters in a word.
 ![colourful-text.png](colourful-text.png)
@@ -101,3 +103,5 @@ span {
   color: #4FE316;
 }
 ```
+
+[Back to home](../README.md)
