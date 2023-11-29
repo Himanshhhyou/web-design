@@ -22,7 +22,7 @@ Here, I'll show you how to change the color of individual letters in a word.
   <title>Colourful Text</title>
 
   <!-- External Stylesheet -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="colourful-text.css">
 
   <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
