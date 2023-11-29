@@ -9,7 +9,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 > 🙋**Attention Here:**
  I utilize `Google Fonts` exclusively to switch the font family. Alternatively, you can select a different font or stick with the default one provided by your browser.
 
-[index.html](index.html)
+[colourful-text.html](colourful-text.html)
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +50,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 ```
 
 ## CSS
-[style.css](style.css)
+[colourful-text.css](colourful-text.css)
 ``` css
 /* Styling for the body */
 body {
