@@ -1,3 +1,4 @@
+<body>
 # Side Navigation bar
 
 ![side-navbar](side-navbar.png)
@@ -81,3 +82,4 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 ```
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
