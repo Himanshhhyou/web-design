@@ -1,5 +1,4 @@
-<body>
-  
+
 # Side Navigation bar
 
 ![side-navbar](side-navbar.png)
@@ -19,7 +18,6 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 
 ## Source Code
 ### HTML
-<a class="github-button" href="side-navbar.html" data-icon="octicon-download" data-size="large" aria-label="Download buttons/github-buttons on GitHub">Download HTML</a>
 
 [side-navbar.html](side-navbar.html)
 
@@ -82,6 +80,3 @@ Here, I use Font Awesome for icons and W3CSS for styling to enhance visual appea
 }
 ```
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-</body>
