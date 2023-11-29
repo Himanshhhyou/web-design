@@ -28,7 +28,7 @@ You can simply copy or download the html and css code.
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- External CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="winter-wonderland.css">
 </head>
 
 <body>
