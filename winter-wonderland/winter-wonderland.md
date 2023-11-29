@@ -66,7 +66,7 @@ You can simply copy or download the html and css code.
 </html>
 ```
 ## CSS
-[winter-wonderland.css](winter-wonerland.css)
+[winter-wonderland.css](winter-wonderland.css)
 
 ``` css
     /* Resetting default margin and padding, setting font, and background color */
