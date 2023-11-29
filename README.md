@@ -6,4 +6,3 @@
 
 👉 [side-navbar](side-navbar/side-navbar.md)
 
-<a href="#" class="button icon search">Search</a>
