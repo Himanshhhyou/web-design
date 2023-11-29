@@ -9,7 +9,7 @@
 # Source Code
 You can simply copy or download the html and css code.
 ## HTML
-[index.html](index.html)
+[winter-wonderland.html](winter-wonderland.html)
 
 ```html
 <!DOCTYPE html>
@@ -66,7 +66,7 @@ You can simply copy or download the html and css code.
 </html>
 ```
 ## CSS
-[style.css](style.css)
+[winter-wonderland.css](winter-wonerland.css)
 
 ``` css
     /* Resetting default margin and padding, setting font, and background color */
