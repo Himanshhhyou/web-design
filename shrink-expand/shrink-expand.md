@@ -6,6 +6,8 @@
 
 > Change the value of `transition: 2s;` to control the speed of expand and shrink.
 
+<a href="shrink-expand.html">shrink-expand.html</a>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
