@@ -29,7 +29,7 @@
 
    /* Expand effect when the #expand radio is checked */
    #expand:checked~div {
-     height: 800px;
+     height: 700px;
    }
 
    /* Button styling changes when #shrink radio is checked */
