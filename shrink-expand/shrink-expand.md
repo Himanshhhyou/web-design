@@ -45,12 +45,12 @@
    /* Style for labels */
    label {
      display: inline-block;
-     width: 100vw;
+     width: 99.5%;
      text-align: center;
      border: 1px solid #3F3F3F;
      padding: 10px 0;
-     font-weight: 700;
-     margin-bottom: 5px;
+     font-weight: 500;
+     margin-bottom: 5px
    }
 
    /* Styling for the container */
@@ -68,7 +68,7 @@
 
    /* Expand effect when the #expand radio is checked */
    #expand:checked~div {
-     height: 700px;
+     height: 800px;
    }
 
    /* Button styling changes when #shrink radio is checked */
