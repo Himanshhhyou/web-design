@@ -6,7 +6,7 @@
    /* Style for labels */
    label {
      display: inline-block;
-     width: 49%;
+     width: 100%;
      text-align: center;
      border: 1px solid #929292;
      padding: 10px 0;
