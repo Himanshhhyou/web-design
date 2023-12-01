@@ -45,7 +45,7 @@
    /* Style for labels */
    label {
      display: inline-block;
-     width: 99.5%;
+     width: 100%;
      text-align: center;
      border: 1px solid #3F3F3F;
      padding: 10px 0;
