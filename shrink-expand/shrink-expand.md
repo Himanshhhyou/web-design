@@ -32,7 +32,7 @@
 ```
 ## CSS
 
-> Change the value of `transition: 2s;` to control the speed of expand and shrink.
+> Change the value of `transition: 2s;` (line: 22) to control the speed of expand and shrink.
 
 <a href="shrink-expand.css">shrink-expand.css</a>
 
