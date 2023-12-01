@@ -81,4 +81,4 @@
      color: #fff;
    }
 ```
-Feel free to adjust the value of transition: 2s; on line 22 in the CSS to control the speed of the expand and shrink effects.
+Feel free to adjust the value of `transition: 2s;` on line 22 in the CSS to control the speed of the expand and shrink effects.
