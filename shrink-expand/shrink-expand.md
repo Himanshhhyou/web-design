@@ -2,7 +2,7 @@
 
 <a href="https://himanshhhyou.github.io/web-design/shrink-expand/shrink-expand.html"><img src="shrink-expand.jpg"></a>
 
-##HTML
+## HTML
 
 > Change the value of `transition: 2s;` to control the speed of expand and shrink.
 
