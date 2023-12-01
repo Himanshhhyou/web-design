@@ -1,6 +1,6 @@
 # Shrink & Expand
 
-<a href="https://himanshhhyou.github.io/web-design/shrink-expand/shrink-expand.html">Click here to see preview</a>
+<a href="https://himanshhhyou.github.io/web-design/shrink-expand/shrink-expand.html">🖱️ Click here to see preview</a>
 
 
 ## HTML
