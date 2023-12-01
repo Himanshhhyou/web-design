@@ -54,7 +54,7 @@
    /* Styling for the container */
    div {
      width: 100%;
-     height: 700px;
+     height: 500px;
      background-color: #585D70;
      transition: 2s;
    }
@@ -66,7 +66,7 @@
 
    /* Expand effect when the #expand radio is checked */
    #expand:checked~div {
-     height: 800px;
+     height: 500px;
    }
 
    /* Button styling changes when #shrink radio is checked */
