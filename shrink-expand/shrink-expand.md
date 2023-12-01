@@ -1,3 +1,4 @@
 # Shrink & Expand
-![(shrink-expand.jpg)](https://himanshhhyou.github.io/web-design/shrink-expand/shrink-expand.html)
+
+<a href="https://himanshhhyou.github.io/web-design/shrink-expand/shrink-expand.html"><img src="shrink-expand.jpg"></a>
 
