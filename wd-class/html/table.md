@@ -239,7 +239,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-       <table border="1" width= "250px">
+       <table border="1" width= "100%">
             <tr>
                 <td>A</td>
                 <td rowspan="2">B</td>
