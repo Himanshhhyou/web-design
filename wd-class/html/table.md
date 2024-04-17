@@ -157,7 +157,6 @@
     <body>
         <table border="1" width="100%">
             <tr>
-                <tr>
                 <td>R1C1</td>
             </tr>
             <tr>
@@ -166,6 +165,48 @@
             <tr>
                 <td>R3C1</td>
             </tr>
+        </table>
+    </body>
+</html>
+
+### Example 6
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table Tag</title>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <td>R1C1</td>
+                <td>R1C2</td>
+            </tr>
+            <tr>
+                <td>R2C1</td>
+            </tr>
+            <tr>
+                <td>R3C1</td>
+            </tr>
+        </table>
+    </body>
+</html>
+```
+**Output**
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <table border="1" width="100%">
+            <tr>
+                <td>R1C1</td>
+                <td>R1C2</td>
+            </tr>
+            <tr>
+                <td>R2C1</td>
+            </tr>
+            <tr>
+                <td>R3C1</td>
             </tr>
         </table>
     </body>
