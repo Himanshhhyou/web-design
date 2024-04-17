@@ -1,5 +1,5 @@
 # HTML
-- [Basic syntax of HTML](basic-syntax.html.md)
+- [Basic syntax of HTML](basic-syntax.md)
 
 
 
