@@ -58,9 +58,4 @@
 
 ## Output
 
-<!DOCTYPE html>
-<html>
-    <body>
-        <p>HTML stands for <mark style = "background: yellow;">Hyper Text Markup Language</mark></p>
-    </body>
-</html>
+![](img/mark.png)
