@@ -1,10 +1,11 @@
 # HTML
 - [Basic syntax of HTML](wd-class/html/basic-syntax.md)
-- [Heading Tag](wd-class/html/heading-tag.md)
-- [Paragraph Tag](wd-class/html/paragraph.md)
-- [Formatting Tags](wd-class/html/formatting.md)
-- [Image Tag](wd-class/html/img.md)
-
+- [Heading tag](wd-class/html/heading-tag.md)
+- [Paragraph tag](wd-class/html/paragraph.md)
+- [Formatting tags](wd-class/html/formatting.md)
+- [Anchor tag](wd-class/html/anchor.md)
+- [Image tag](wd-class/html/img.md)
+- [Table tag](wd-class/html/table.md)
 
 
 
