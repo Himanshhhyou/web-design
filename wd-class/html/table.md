@@ -384,8 +384,9 @@
             </tr>
             <tr>
                 <td>C</td>
+            </tr>
+            <tr>
                 <td>D</td>
-                <td>E</td>
             </tr>
        </table>
     </body>
