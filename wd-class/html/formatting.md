@@ -59,3 +59,31 @@
 **Output:**
 
 ![](img/mark.png)
+
+## &lt;small> and &gt;big>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+        <small>This is small size text</small>
+        <p>This is normal size text</p>
+        <big>This is big size text</big>
+    </body>
+</html>
+```
+ **Output**
+
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+        <small>This is small size text</small>
+        <p>This is normal size text</p>
+        <big>This is big size text</big>
+    </body>
+</html>
