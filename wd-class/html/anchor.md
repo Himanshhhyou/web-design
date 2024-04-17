@@ -13,7 +13,11 @@
 </html>
 ```
 ## Output
-
+<!DOCTYPE html>
+<html>
+    <body>
         <a href="https://unsplash.com/">Open unsplash</a>
         <br>
         <a href="https://pixabay.com/">Open pixabay</a>
+    </body>
+</html>
