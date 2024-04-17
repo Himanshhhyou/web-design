@@ -184,9 +184,11 @@
             </tr>
             <tr>
                 <td>R2C1</td>
-            </tr>
+                <td>R2C2</td>
+                </tr>
             <tr>
                 <td>R3C1</td>
+                <td>R3C2</td>
             </tr>
         </table>
     </body>
@@ -204,9 +206,11 @@
             </tr>
             <tr>
                 <td>R2C1</td>
-            </tr>
+                <td>R2C2</td>
+                </tr>
             <tr>
                 <td>R3C1</td>
+                <td>R3C2</td>
             </tr>
         </table>
     </body>
