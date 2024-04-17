@@ -378,12 +378,14 @@
 <html>
     <body>
        <table border="1" width= "100%">
-            <tr>
+          <tr>
                 <td>A</td>
-                <td rowspan="2">B</td>
+                <td rowspan="3">B</td>
             </tr>
             <tr>
                 <td>C</td>
+                <td>D</td>
+                <td>E</td>
             </tr>
        </table>
     </body>
