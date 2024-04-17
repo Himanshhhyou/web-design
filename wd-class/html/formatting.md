@@ -94,7 +94,6 @@
 
 <!DOCTYPE html>
 <html>
-
     <body>
        <p>I like <del>dogs</del> <ins>cats</ins></p>
     </body>
