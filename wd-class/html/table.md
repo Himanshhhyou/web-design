@@ -173,6 +173,8 @@
 
 
 ## Rowspan
+
+### Example 1
 ```html
 <!DOCTYPE html>
 <html>
@@ -193,6 +195,8 @@
 </html>
 ```
 
+**Output**
+
 <!DOCTYPE html>
 <html>
     <body>
@@ -209,3 +213,40 @@
 </html>
 
 
+### Example 2
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rowspan</title>
+    </head>
+    <body>
+       <table>
+            <tr>
+                <td>A</td>
+                <td rowspan="2">B</td>
+            </tr>
+            <tr>
+                <td>C</td>
+            </tr>
+       </table>
+    </body>
+</html>
+```
+
+**Output**
+
+<!DOCTYPE html>
+<html>
+    <body>
+       <table border="1" width= "100%">
+            <tr>
+                <td rowspan="2">A</td>
+                <td>B</td>
+            </tr>
+            <tr>
+                <td>C</td>
+            </tr>
+       </table>
+    </body>
+</html>
