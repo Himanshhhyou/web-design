@@ -1,6 +1,8 @@
 # HTML
 - [Basic syntax of HTML](wd-class/html/basic-syntax.md)
 - [Heading Tag](wd-class/html/heading-tag.md)
+- [Paragraph Tag](wd-class/html/paragraph.md)
+- [Formatting Tags](wd-class/html/formatting.md)
 
 
 
