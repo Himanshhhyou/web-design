@@ -1,5 +1,5 @@
 # The basic syntax of HTML Document
-``` html
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -11,3 +11,4 @@
     </body>
 </html>
 ```
+![](basic-syntax.png)
