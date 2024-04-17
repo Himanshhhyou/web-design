@@ -98,3 +98,26 @@
        <p>I like <del>dogs</del> <ins>cats</ins></p>
     </body>
 </html>
+
+## &lt;sub> and &lt;sup>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+       <p>Formula of water is: H<sub>2</sub>O</p>
+       <p>2<sup>4</sup> = 16</p>
+    </body>
+</html>
+```
+**Output**
+
+<!DOCTYPE html>
+<html>
+    <body>
+       <p>Formula of water is: H<sub>2</sub>O</p>
+       <p>2<sup>4</sup> = 16</p>
+    </body>
+</html>
