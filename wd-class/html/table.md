@@ -196,7 +196,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-       <table border="1" width= "100%" height="200px">
+       <table border="1" width= "100%">
             <tr>
                 <td rowspan="2">A</td>
                 <td>B</td>
