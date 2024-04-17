@@ -1,3 +1,13 @@
+# HTML
+- [Basic syntax of HTML](basic-syntax.html.md)
+
+
+
+
+
+
+
+
 ## List of small projects
 
 - [Winter-wonderland](winter-wonderland/winter-wonderland.md)
