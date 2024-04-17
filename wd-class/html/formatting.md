@@ -12,8 +12,8 @@
     </body>
 </html>
 ```
-**Output**
-<!DOCTYPE html>
+**Output:**
+<!DOCTYPE  html>
 <html>
     <body>
         <p><b>This is bold text</b></p>
@@ -34,7 +34,7 @@
     </body>
 </html>
 ```
-**Output**
+**Output:**
 <!DOCTYPE html>
 <html>
     <body>
@@ -56,6 +56,6 @@
 </html>
 ```
 
-**Output**
+**Output:**
 
 ![](img/mark.png)
