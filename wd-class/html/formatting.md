@@ -12,7 +12,7 @@
     </body>
 </html>
 ```
-## Output
+**Output**
 <!DOCTYPE html>
 <html>
     <body>
@@ -34,7 +34,7 @@
     </body>
 </html>
 ```
-## Output
+**Output**
 <!DOCTYPE html>
 <html>
     <body>
@@ -56,6 +56,6 @@
 </html>
 ```
 
-## Output
+**Output**
 
 ![](img/mark.png)
