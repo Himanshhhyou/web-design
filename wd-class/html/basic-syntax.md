@@ -12,4 +12,4 @@
 </html>
 ```
 ## Output
-![](basic-syntax.png)
+![](img/basic-syntax.png)

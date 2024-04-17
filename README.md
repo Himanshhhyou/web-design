@@ -1,5 +1,5 @@
 # HTML
-- [Basic syntax of HTML](basic-syntax.md)
+- [Basic syntax of HTML](wd-class/html/basic-syntax.md)
 
 
 
