@@ -77,3 +77,27 @@
  **Output**
 
 ![](img/small-big.png)
+
+## &lt;del> and &lt;ins>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+       <p>I like <del>dogs</del> <ins>cats</ins></p>
+    </body>
+</html>
+```
+**Output**
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+       <p>I like <del>dogs</del> <ins>cats</ins></p>
+    </body>
+</html>
