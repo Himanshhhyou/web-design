@@ -13,7 +13,16 @@
 </html>
 ```
 ## Output
-![](img/b-and-strong.png)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tag</title>
+    </head>
+    <body>
+        <p><b>This is bold text</b></p>
+        <p><strong>This is strong text</strong></p>
+    </body>
+</html>
 
 ## &lt;i> and &lt;em>
 ```html
@@ -29,4 +38,13 @@
 </html>
 ```
 ## Output
-![](img/i-and-em.png)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tag</title>
+    </head>
+    <body>
+        <p><i>This is italic text</i></p>
+        <p><em>This is emphasized text</em></p>
+    </body>
+</html>

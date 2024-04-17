@@ -11,5 +11,6 @@
     </body>
 </html>
 ```
+
 ## Output
 ![](img/basic-syntax.png)
