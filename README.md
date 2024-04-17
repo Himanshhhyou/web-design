@@ -12,7 +12,7 @@
 
 
 
-<!--
+
 ## List of small projects
 
 - [Winter-wonderland](winter-wonderland/winter-wonderland.md)
@@ -22,5 +22,3 @@
 - [side-navbar](side-navbar/side-navbar.md)
 
 - [shrink-expand](shrink-expand/shrink-expand.md)
-
--->
