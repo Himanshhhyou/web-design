@@ -348,3 +348,43 @@
        </table>
     </body>
 </html>
+
+### Example 3
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rowspan</title>
+    </head>
+    <body>
+       <table>
+            <tr>
+                <td>A</td>
+                <td rowspan="3">B</td>
+            </tr>
+            <tr>
+                <td>C</td>
+                <td>D</td>
+                <td>E</td>
+            </tr>
+       </table>
+    </body>
+</html>
+```
+
+**Output**
+
+<!DOCTYPE html>
+<html>
+    <body>
+       <table border="1" width= "100%">
+            <tr>
+                <td>A</td>
+                <td rowspan="2">B</td>
+            </tr>
+            <tr>
+                <td>C</td>
+            </tr>
+       </table>
+    </body>
+</html>
