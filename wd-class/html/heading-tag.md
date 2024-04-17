@@ -1,8 +1,8 @@
 # Heading Tag
 
 - There is 6 types of heading in HTML
-- Largest is &lt;h1>
-- Smallest is &lt;/h6>
+- Largest is **&lt;h1>&lt;/h1>**
+- Smallest is **&lt;h6>&lt;/h6>**
 
 ```html
 <!DOCTYPE html>
