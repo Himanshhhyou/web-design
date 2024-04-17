@@ -42,3 +42,25 @@
         <p><em>This is emphasized text</em></p>
     </body>
 </html>
+
+## &lt;mark>
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formatting Tags</title>
+    </head>
+    <body>
+        <p>HTML stands for <mark>Hyper Text Markup Language</mark></p>
+    </body>
+</html>
+```
+
+## Output
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>HTML stands for <mark>Hyper Text Markup Language</mark></p>
+    </body>
+</html>
