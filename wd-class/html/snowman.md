@@ -6,6 +6,8 @@
 - Body color: #FFFFFF
 
 [Click here to preview](https://himanshhhyou.github.io/web-design/wd-class/html/snowman.html)
+
+[Click here to see original image](img/snowman.jpg)
 ```html
 <!DOCTYPE html>
 <html>
