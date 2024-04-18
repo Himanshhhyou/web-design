@@ -23,7 +23,7 @@
 	</head>
 
 	<body>
-		<table border="1" style="border-collapse: collapse;" width="80%" height="700px">
+		<table border="1" style="border-collapse: collapse;" width="700px" height="700px">
 			<!--1st row-->
 			<tr>
 				<td></td>
@@ -258,13 +258,13 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
-				<td></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -277,13 +277,13 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td></td>
+				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #1C1C1C;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
-				<td></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -296,13 +296,13 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
 				<td style="background: #FFFFFF;"></td>
-				<td></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
