@@ -13,7 +13,7 @@
 		<title>Snowman</title>
 		<style>
 			td {
-				background: #869CD6;
+				background: #849DD5;
 			}
 		</style>
 	</head>
@@ -66,9 +66,9 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -85,9 +85,9 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -103,11 +103,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #1c1c1c;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #1C1C1C;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -123,9 +123,9 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -141,11 +141,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -160,11 +160,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td style="background: #F46C16;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -180,9 +180,9 @@
 				<td style="background: #543312;"></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -198,11 +198,11 @@
 				<td style="background: #543312;"></td>
 				<td style="background: #543312;"></td>
 				<td style="background: #543312;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td style="background: #543312;"></td>
 				<td style="background: #543312;"></td>
 				<td style="background: #543312;"></td>
@@ -217,11 +217,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td style="background: #543312;"></td>
 				<td></td>
@@ -236,11 +236,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -255,11 +255,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -274,11 +274,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #1c1c1c;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #1C1C1C;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -293,11 +293,11 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
-				<td style="background: #ffffff;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
+				<td style="background: #FFFFFF;"></td>
 				<td></td>
 				<td></td>
 				<td></td>
