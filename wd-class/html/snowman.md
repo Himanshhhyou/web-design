@@ -1,10 +1,11 @@
 # Snowman
+- Background color: #869CD6
 - Hat color: #1C1C1C
 - Nose color: #F46C16
 - Hand color: #543312
 - Body color: #FFFFFF
 
-
+[Click here to preview](https://himanshhhyou.github.io/web-design/wd-class/html/snowman.html)
 ```html
 <!DOCTYPE html>
 <html>
@@ -12,7 +13,7 @@
 		<title>Snowman</title>
 		<style>
 			td {
-				background: #849DD5;
+				background: #869CD6;
 			}
 		</style>
 	</head>
