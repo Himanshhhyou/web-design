@@ -1,5 +1,6 @@
 # Snowman
-[Click here to see original image](img/snowman.jpg)
+
+![](img/snowman.jpg)
 ## color codes
 - Background color: #869CD6
 - Hat color: #1C1C1C
