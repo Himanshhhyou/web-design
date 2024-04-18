@@ -6,6 +6,7 @@
 - [Anchor tag](wd-class/html/anchor.md)
 - [Image tag](wd-class/html/img.md)
 - [Table tag](wd-class/html/table.md)
+- [Snowman](wd-class/html/snowman.md)
 
 
 
