@@ -6,7 +6,7 @@
 - Nose color: #F46C16
 - Hand color: #543312
 - Body color: #FFFFFF
-
+## HTML Code
 [Click here to preview](https://himanshhhyou.github.io/web-design/wd-class/html/snowman.html)
 
 ```html
