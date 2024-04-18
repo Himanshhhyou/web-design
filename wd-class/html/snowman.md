@@ -1,4 +1,6 @@
 # Snowman
+[Click here to see original image](img/snowman.jpg)
+## color codes
 - Background color: #869CD6
 - Hat color: #1C1C1C
 - Nose color: #F46C16
@@ -7,7 +9,6 @@
 
 [Click here to preview](https://himanshhhyou.github.io/web-design/wd-class/html/snowman.html)
 
-[Click here to see original image](img/snowman.jpg)
 ```html
 <!DOCTYPE html>
 <html>
