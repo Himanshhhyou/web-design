@@ -7,6 +7,7 @@
 - [Image tag](wd-class/html/img.md)
 - [Table tag](wd-class/html/table.md)
 - [Snowman](wd-class/html/snowman.md)
+- [Registration form](wd-class/html/form/registration_form.html)
 
 
 
@@ -23,4 +24,6 @@
 - [side-navbar](small-projects/side-navbar/side-navbar.md)
 
 - [shrink-expand](small-projects/shrink-expand/shrink-expand.md)
+
+-
 -->
