@@ -8,7 +8,7 @@
 - [Table tag](wd-class/html/table.md)
 - [Snowman](wd-class/html/snowman.md)
 - [Registration form](wd-class/html/form/registration_form.html)
-- [Online test paper design form](wd-class/html/online-test-paper-design.html)
+- [Online test paper design form](wd-class/html/online-test.html)
 
 
 
