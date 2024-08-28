@@ -1,6 +1,7 @@
 # Table of contents
 - [Basic syntax of HTML](wd-class/html/basic-syntax.md)
-- 
+- [Base Tag](wd-class/html/base.md)
+- [Link Tag](wd-class/html/linkTag.md)
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
