@@ -1,5 +1,7 @@
 # Table of contents
 - [Basic syntax of HTML](wd-class/html/basic-syntax.md)
+- 
+<!--
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
 - [Formatting tags](wd-class/html/formatting.md)
@@ -9,6 +11,7 @@
 - [Snowman](wd-class/html/snowman.md)
 - [Registration form](wd-class/html/form/registration_form.html)
 - [Online test paper design form](wd-class/html/online-test.html)
+-->
 
 
 
