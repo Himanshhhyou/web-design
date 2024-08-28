@@ -1,4 +1,4 @@
-![](20240417_153427_0000.jpg)
+# Table of contents
 - [Basic syntax of HTML](wd-class/html/basic-syntax.md)
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
