@@ -1,4 +1,6 @@
-[base.html](base.md)
+## Base Tag
+
+[base.html](base.html)
 ```html
 <!DOCTYPE html>
 <html>
