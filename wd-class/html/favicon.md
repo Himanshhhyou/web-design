@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<title>favicon</title>
-		<link rel="icon" href="image/sunset.jpg">
+		<link rel="icon" href="images/sunset.jpg">
 	</head>
 	<body>
 		<h1>This is heading</h1>
