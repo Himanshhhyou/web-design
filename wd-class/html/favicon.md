@@ -1,3 +1,7 @@
+
+## Favicon
+
+[favicon.html](favicon.html)
 ``` html
 <!DOCTYPE html>
 <html>
