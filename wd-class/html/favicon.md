@@ -15,3 +15,8 @@
 	</body>
 </html>
 ```
+
+
+## Output
+
+![](img/favicon.png)
