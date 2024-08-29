@@ -1,3 +1,4 @@
+``` html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -9,3 +10,4 @@
     <p>You can view the favicon in the title bar</p>
 	</body>
 </html>
+```
