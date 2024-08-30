@@ -4,6 +4,9 @@
 - [Link Tag](wd-class/html/linkTag.md)
 - [Favicon](wd-class/html/favicon.md)
 - [Background Color Change](wd-class/html/bgColorChange.md)
+- [Internal JavaScript](wd-class/html/internalJs.md)
+- [External Javascript](wd-class/html/externalJs.md)
+- [Style tag](wd-class/html/styleTag.md)
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
