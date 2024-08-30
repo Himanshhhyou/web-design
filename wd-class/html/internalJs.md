@@ -16,4 +16,4 @@
 
 
 ## Output
-![](img/internallJs.png)
+![](img/internalJs.png)
