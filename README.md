@@ -7,6 +7,8 @@
 - [Internal JavaScript](wd-class/html/internalJs.md)
 - [External Javascript](wd-class/html/externalJs.md)
 - [Style tag](wd-class/html/styleTag.md)
+
+### Attrubutes of Body Tag
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
