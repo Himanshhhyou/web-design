@@ -1,0 +1,20 @@
+## link alink vlink
+
+[linkAlinkVlink.html](linkAlinkVlink.html)
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>link alink vlink</title>	
+	</head>
+	
+	<body link="green" vlink="cyan" alink="teal">
+		<h1>Anchor tag</h1>
+		<a href="https://www.google.com">Go to google</a> 
+		<a href="https://www.facebook.com">Go to facebook</a> 
+		<a href="https://www.instagram.com">Go to insta</a>
+	</body>
+</html>
+```
+## Output
+![](img/linkAlinkVlink.png)
