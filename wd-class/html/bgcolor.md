@@ -13,4 +13,4 @@
 ```
 
 ## Output
-![](img/bg)
+![](img/bgcolor.png)
