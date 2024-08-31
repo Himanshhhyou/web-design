@@ -9,6 +9,12 @@
 - [Style tag](wd-class/html/styleTag.md)
 
 ### Attrubutes of Body Tag
+- [bgcolor](wd-class/html/styleTag.md)
+- [background](wd-class/html/styleTag.md)
+- [text](wd-class/html/styleTag.md)
+- [leftmargin and topmargin](wd-class/html/styleTag.md)
+- [link alink vlink](wd-class/html/styleTag.md)
+
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
 - [Paragraph tag](wd-class/html/paragraph.md)
