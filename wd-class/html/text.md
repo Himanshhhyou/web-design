@@ -16,4 +16,4 @@
 ```
 
 ## Output
-![](text.png)
+![](img/text.png)
