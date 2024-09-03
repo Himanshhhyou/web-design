@@ -1,5 +1,5 @@
 ## Formatting tags
-[Formatting Tags](formatting-tags/.html)
+[formatting-tags.html](formatting-tags.html)
 
 ```html
 <!DOCTYPE html>
