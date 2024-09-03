@@ -36,4 +36,4 @@
 ```
 
 ## Output
-![](img/formatting.png)
+![](img/formatting-tags.png)

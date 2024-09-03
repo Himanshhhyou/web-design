@@ -15,6 +15,7 @@
 - [text](wd-class/html/text.md)
 - [leftmargin and topmargin](wd-class/html/leftTopMargin.md)
 - [link alink vlink](wd-class/html/linkAlinkVlink.md)
+- [Formatting Tags](wd-class/html/formatting-tags.md)
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
