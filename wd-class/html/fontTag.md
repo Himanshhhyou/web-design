@@ -1,0 +1,35 @@
+## Font Tag
+[fontTag.html](fontTag.html)
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Font tag</title>
+</head>
+<body>
+	<p><font color="blue" face="verdana">This is font tag(verdana)</font></p>
+	<p><font color="green">This is font tag(Times new roman)</font></p>
+	<p><font color="red" face="helvetica">This is font tag(helvetica)</font></p>
+	
+	<h2>Absolute size</h2>
+	<p><font size="1">This is font tag (1)</font></p>
+	<p><font size="2">This is font tag (2)</font></p>
+	<p><font size="3">This is font tag (3)</font></p>
+	<p><font size="4">This is font tag (4)</font></p>
+	<p><font size="5">This is font tag (5)</font></p>
+	<p><font size="6">This is font tag (6)</font></p>
+	<p><font size="7">This is font tag (7)</font></p>
+
+	<h2>Relative size</h2>	
+	<p><font size="-2">This is font tag (-2)</font></p>
+	<p><font size="-1">This is font tag (-1)</font></p>
+	<p><font size="+1">This is font tag (+1)</font></p>
+	<p><font size="+2">This is font tag (+2)</font></p>
+	<p><font size="+3">This is font tag (+3)</font></p>
+	<p><font size="+4">This is font tag (+4)</font></p>
+</body>
+</html>
+```
+
+## Output
+![](img/fontTag.PNG)
