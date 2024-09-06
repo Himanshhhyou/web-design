@@ -17,6 +17,7 @@
 - [link alink vlink](wd-class/html/linkAlinkVlink.md)
 - [Formatting Tags](wd-class/html/formatting-tags.md)
 - [Font Tag](wd-class/html/fontTag.md)
+- [Heading Tag](wd-class/html/heading-tag.md)
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
