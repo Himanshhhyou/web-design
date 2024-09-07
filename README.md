@@ -18,6 +18,11 @@
 - [Formatting Tags](wd-class/html/formatting-tags.md)
 - [Font Tag](wd-class/html/fontTag.md)
 - [Heading Tag](wd-class/html/heading-tag.md)
+- [Div Tag](wd-class/html/divTag.md)
+- [HR Tag](wd-class/html/hrTag.md)
+- [Teletype](wd-class/html/ttTag.md)
+- [Quote (q tag)](wd-class/html/qTag.md)
+- [Anchor tag](wd-class/html/aTag.md)
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
