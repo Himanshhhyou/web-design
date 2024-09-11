@@ -23,7 +23,7 @@
 - [Teletype](wd-class/html/ttTag.md)
 - [Quote (q tag)](wd-class/html/qTag.md)
 - [Anchor tag](wd-class/html/aTag.md)
-- [External Link](wd-class/html/externalLink.md
+- [External Link](wd-class/html/externalLink.md)
 - [Internal Link](wd-class/html/internalLink.md)
 
 <!--
