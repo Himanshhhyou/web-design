@@ -1,13 +1,13 @@
 # Table of contents
 ### Attributes of head tag
-- ###### [Basic syntax of HTML](wd-class/html/basic-syntax.md)
-- ###### [Base Tag](wd-class/html/base.md)
-- ###### [Link Tag](wd-class/html/linkTag.md)
-- ###### [Favicon](wd-class/html/favicon.md)
-- ###### [Background Color Change](wd-class/html/bgColorChange.md)
-- ###### [Internal JavaScript](wd-class/html/internalJs.md)
-- ###### [External Javascript](wd-class/html/externalJs.md)
-- ###### [Style tag](wd-class/html/styleTag.md)
+- [Basic syntax of HTML](wd-class/html/basic-syntax.md)
+- [Base Tag](wd-class/html/base.md)
+- [Link Tag](wd-class/html/linkTag.md)
+- [Favicon](wd-class/html/favicon.md)
+- [Background Color Change](wd-class/html/bgColorChange.md)
+- [Internal JavaScript](wd-class/html/internalJs.md)
+- [External Javascript](wd-class/html/externalJs.md)
+- [Style tag](wd-class/html/styleTag.md)
 
 ### Attrubutes of Body Tag
 - [bgcolor](wd-class/html/bgcolor.md)
