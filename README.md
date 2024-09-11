@@ -1,6 +1,6 @@
 # Table of contents
 ### Attributes of head tag
-- [Basic syntax of HTML](wd-class/html/basic-syntax.md)
+- ##### [Basic syntax of HTML](wd-class/html/basic-syntax.md)
 - [Base Tag](wd-class/html/base.md)
 - [Link Tag](wd-class/html/linkTag.md)
 - [Favicon](wd-class/html/favicon.md)
