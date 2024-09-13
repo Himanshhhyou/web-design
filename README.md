@@ -23,9 +23,14 @@
 - [Teletype](wd-class/html/ttTag.md)
 - [Quote (q tag)](wd-class/html/qTag.md)
     #### Links or hyperlinks
-- [Anchor tag](wd-class/html/aTag.md)
-- [External Link](wd-class/html/externalLink.md)
-- [Internal Link](wd-class/html/internalLink.md)
+    - [Anchor tag](wd-class/html/aTag.md)
+    - [External Link](wd-class/html/externalLink.md)
+    - [Internal Link](wd-class/html/internalLink.md)
+
+- [img(image) tag](wd-class/html/imageTag.md)
+- [image as a link](wd-class/html/imageLink.md)
+- [Comment](wd-class/html/comment.md)
+
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
