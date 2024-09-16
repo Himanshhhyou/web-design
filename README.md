@@ -32,6 +32,7 @@
 - [Comment](wd-class/html/comment.md)
    ### Table
      - [Simple Table](wd-class/html/tableTag.md)
+     - [cellpadding and cellspacing attribute](wd-class/html/cellpaddingAndCellspacing.md)
 
 
 <!--
