@@ -30,6 +30,8 @@
 - [img(image) tag](wd-class/html/imageTag.md)
 - [image as a link](wd-class/html/imageLink.md)
 - [Comment](wd-class/html/comment.md)
+   ### Table
+     - [Simple Table](wd-class/html/tableTag.md)
 
 
 <!--
