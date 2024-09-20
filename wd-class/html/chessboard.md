@@ -1,6 +1,6 @@
 ## Chess board
 
-'''html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -97,7 +97,7 @@
   </table>
 </body>
 </html>
-'''
+```
 
 ## Output
 ![](img/chessboard.png)
