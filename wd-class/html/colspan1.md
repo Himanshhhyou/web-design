@@ -1,7 +1,8 @@
 ## Colspan 1
+[colspan1.html](colspan1.html)
 ```html
 
-<!Doctype HTML>
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Colspan1</title>

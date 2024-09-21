@@ -34,7 +34,10 @@
      - [Simple Table](wd-class/html/tableTag.md)
      - [cellpadding and cellspacing attribute](wd-class/html/cellpaddingAndCellspacing.md)
      - [Chess board](wd-class/html/chessboard.md)
-     - [Colspan 1](wd-class/html/colspan1.md)
+     - [colspan 1](wd-class/html/colspan1.md)
+     - [colspan 2](wd-class/html/colspan2.md)
+     - [rowspan 1](wd-class/html/rowspan1.md)
+     - [rowspan 2](wd-class/html/rowspan2.md)
 
 
 <!--
