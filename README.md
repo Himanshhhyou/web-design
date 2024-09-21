@@ -30,7 +30,7 @@
 - [img(image) tag](wd-class/html/imageTag.md)
 - [image as a link](wd-class/html/imageLink.md)
 - [Comment](wd-class/html/comment.md)
-   ### Table
+### Table
      - [Simple Table](wd-class/html/tableTag.md)
      - [cellpadding and cellspacing attribute](wd-class/html/cellpaddingAndCellspacing.md)
      - [Chess board](wd-class/html/chessboard.md)
