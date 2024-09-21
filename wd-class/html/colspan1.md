@@ -28,4 +28,4 @@
 ```
 
 ## Output
-![](colspan1.png)
+![](img/colspan1.png)
