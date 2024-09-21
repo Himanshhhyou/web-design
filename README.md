@@ -38,6 +38,8 @@
      - [colspan 2](wd-class/html/colspan2.md)
      - [rowspan 1](wd-class/html/rowspan1.md)
      - [rowspan 2](wd-class/html/rowspan2.md)
+     - [colrow 1](wd-class/html/colrow1.md)
+     - [colrow 2](wd-class/html/colrow2.md)
 
 
 <!--
