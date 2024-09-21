@@ -22,11 +22,11 @@
 				<td rowspan="2">B</td>
 				<td>C</td>
 			</tr>
-            <tr>
+            		<tr>
 				<td>D</td>
 				<td>E</td>
 			</tr>
-            <tr>
+            		<tr>
 				<td>F</td>
 				<td colspan="2">G</td>		
 			</tr>
