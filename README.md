@@ -30,16 +30,18 @@
 - [img(image) tag](wd-class/html/imageTag.md)
 - [image as a link](wd-class/html/imageLink.md)
 - [Comment](wd-class/html/comment.md)
+  
 
-  ### Table
-    - [Simple Table](wd-class/html/tableTag.md)
-    - [cellpadding and cellspacing attribute](wd-class/html/cellpaddingAndCellspacing.md)
-    - [Chess board](wd-class/html/chessboard.md)
-    - [colspan 1](wd-class/html/colspan1.md)
-    - [colspan 2](wd-class/html/colspan2.md)
-    - [rowspan 1](wd-class/html/rowspan1.md)
-    - [rowspan 2](wd-class/html/rowspan2.md)
-    - [colrow 1](wd-class/html/colrow1.md)
+
+### Table
+- [Simple Table](wd-class/html/tableTag.md)
+- [cellpadding and cellspacing attribute](wd-class/html/cellpaddingAndCellspacing.md)
+- [Chess board](wd-class/html/chessboard.md)
+- [colspan 1](wd-class/html/colspan1.md)
+- [colspan 2](wd-class/html/colspan2.md)
+- [rowspan 1](wd-class/html/rowspan1.md)
+- [rowspan 2](wd-class/html/rowspan2.md)
+- [colrow 1](wd-class/html/colrow1.md)
     - [colrow 2](wd-class/html/colrow2.md)
 
 
