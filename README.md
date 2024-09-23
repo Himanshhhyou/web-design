@@ -45,6 +45,9 @@
     - [rowspan 2](wd-class/html/rowspan2.md)
     - [colrow 1](wd-class/html/colrow1.md)
     - [colrow 2](wd-class/html/colrow2.md)
+    - [colrow 3](wd-class/html/colrow3.md)
+
+- [Snowman](wd-class/html/snowman.md)
 
 
 <!--
