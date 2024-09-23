@@ -1,16 +1,14 @@
+## Colspan & Rowspan 3
+[colrow3.html](colrow3.html)
+```html
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<title>Rowspan and Colspan</title>
-		<style>
-			td{
-				height: 100px;
-				width: 100px;
-			}
-		</style>
 	</head>
 	<body>
-		<table border="1">
+		<table>
 			<tr>
 				<td>A</td>
 				<td colspan="4">B</td>
@@ -22,7 +20,7 @@
 				<td>F</td>
 			</tr>
 			<tr>
-				<td rowspan="3">G</td>
+				<td>G</td>
 				<td>H</td>
 				<td>I</td>
 			</tr>
@@ -34,8 +32,14 @@
 				<td>L</td>
 				<td>M</td>
 				<td>N</td>
-            </tr>
+			</tr>
 		</table>
 	</body>
 </html>
 	
+
+
+```
+
+## Output
+![](img/colrow3.png)
