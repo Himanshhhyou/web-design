@@ -53,6 +53,8 @@
 ### Lists
 - [Ordered list](wd-class/html/ol.md)
 - [Ordered list type](wd-class/html/olType.md)
+- [Unordered list](wd-class/html/ul.md)
+- [Unordered list type](wd-class/html/ulType.md)
 
 
 <!--
