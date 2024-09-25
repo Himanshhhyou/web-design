@@ -50,6 +50,10 @@
 
 - [Snowman](wd-class/html/snowman.md)
 
+### Lists
+- [Ordered list](wd-class/html/ol.md)
+- [Ordered list type](wd-class/html/olType.md)
+
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
