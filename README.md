@@ -56,6 +56,10 @@
 - [Unordered list](wd-class/html/ul.md)
 - [Unordered list type](wd-class/html/ulType.md)
 
+### Form
+- [Sign up Form](wd-class/html/form/signUp.md)
+
+
 
 <!--
 - [Heading tag](wd-class/html/heading-tag.md)
