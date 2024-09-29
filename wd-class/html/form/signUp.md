@@ -1,7 +1,8 @@
 ## Sign Up form
 
-```html
 [signUp.html](signUp.html)
+
+```html
 
 
 <!DOCTYPE html>
