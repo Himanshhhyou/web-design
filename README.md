@@ -62,6 +62,7 @@
 ### Frameset
 - [Frameset 1](wd-class/html/frameset1.md)
 - [Frameset 2](wd-class/html/frameset2.md)
+- [Frameset 3](wd-class/html/frameset3.md)
 
 
 
