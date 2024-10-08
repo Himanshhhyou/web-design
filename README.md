@@ -64,6 +64,11 @@
 - [Frameset 2](wd-class/html/frameset2.md)
 - [Frameset 3](wd-class/html/frameset3.md)
 
+### HTML 5 Tags
+- [section](wd-class/html//html5/section.md)
+- [article](wd-class/html/html5/article.md)
+
+
 
 
 
