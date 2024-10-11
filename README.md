@@ -67,6 +67,9 @@
 ### HTML 5 Tags
 - [section](wd-class/html//html5/section.md)
 - [article](wd-class/html/html5/article.md)
+- [aside](wd-class/html/html5/aside.md)
+- [audio](wd-class/html/html5/audio.md)
+- [video](wd-class/html/html5/video.md)
 
 
 
