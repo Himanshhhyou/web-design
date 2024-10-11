@@ -58,6 +58,7 @@
 
 ### Form
 - [Sign up Form](wd-class/html/form/signUp.md)
+- [Label]](wd-class/html/form/label.md)
 
 ### Frameset
 - [Frameset 1](wd-class/html/frameset1.md)
